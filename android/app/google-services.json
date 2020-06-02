@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735384819858",
+    "firebase_url": "https://login-in-serious.firebaseio.com",
+    "project_id": "login-in-serious",
+    "storage_bucket": "login-in-serious.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735384819858:android:b3d6671c1fe30b17dc6e4b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735384819858-0d0l7vda3hrdsdubgr6rei40bf92frsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQT96ywFfQsrKBX6p2mtPhaIFT7nW9kXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735384819858-0d0l7vda3hrdsdubgr6rei40bf92frsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
